@@ -3,15 +3,6 @@
 This repository contains the final submission we made as a team while participating in the ML4Earth hackathon (https://ml4earth24.devpost.com/).
 As a part of the hackathon, we are required to provide a segmentation map for the Landcover.ai Dataset.
 
-## Our Team
-
-- Dr. Shounak Chakraborty
-- Vishnu Meher Vemulapalli
-- Paarth Batra
-- Dhruv Singh
-- Siddharth Karmokar
-- Vinayak Sharma
-
 ## Semantic segmentation of LandCover.ai dataset
 
 The dataset used in this project is the [Landcover.ai Dataset](https://landcover.ai.linuxpolska.com/), 
